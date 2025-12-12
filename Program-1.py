@@ -1,6 +1,6 @@
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
-op = input("Enter operation: ")
+op = input("Enter operation (add/sub/mul/div): ")
 
 if op == "add":
     print("Result:", a + b)
